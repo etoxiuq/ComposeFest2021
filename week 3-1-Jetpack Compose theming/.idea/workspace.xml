@@ -9,18 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21bc7a4f-03b4-4b44-a797-13d88e1f1038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/build/kotlin/sessions/kotlin-compiler-12756018661513473304.salive" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/Home.kt" afterDir="false" />
-    </list>
+    <list default="true" id="21bc7a4f-03b4-4b44-a797-13d88e1f1038" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
